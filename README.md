@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=dkk94&show_icons=true&theme=dark&locale=en" alt="dkk94 Profile Badge" />
 
 <!--
 **dkk94/dkk94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
